@@ -9,3 +9,26 @@ body {
 .heading-title {
 	text-align: center;
 }
+
+div.search-box {
+	width: 50%;
+	margin-left: 25%;
+}
+
+.search-input {
+	width: 80%;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	border-color: #eee;
+}
+
+.search-button {
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: #ff1e00;
+	color: white;
+	border-color: #eee;
+	outline: none;
+}
