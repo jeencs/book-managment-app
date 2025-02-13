@@ -62,3 +62,7 @@ div.search-box {
 	padding: 5px;
 	margin: 5px;
 }
+
+.hide-img-box {
+	display: none;
+}
