@@ -66,3 +66,26 @@ div.search-box {
 .hide-img-box {
 	display: none;
 }
+
+.book-details {
+	width: 900px;
+	height: 400px;
+	border: 1px solid #666;
+	position: absolute;
+	top: 150px;
+	background-color: white;
+	margin-left: 250px;
+}
+
+.book-img-detail {
+	display: inline;
+}
+
+.book-details-text {
+	display: inline-block;
+}
+
+
+.book-img-detail img {
+	width: 200px;
+}

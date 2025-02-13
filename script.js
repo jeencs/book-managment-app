@@ -21,4 +21,16 @@
 	
 	
 	
+	function showDetails() {
+		const bookDetailsDiv = document.getElementById("book-details");
+		bookDetailsDiv.style.display = "block";
+	}
+	
+	function closeBookDetails() {
+		const bookDetailsDiv = document.getElementById("book-details");
+		bookDetailsDiv.style.display = "none";
+	}
+	
+	
+	
 
